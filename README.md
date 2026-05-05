@@ -42,14 +42,7 @@ execute bof edgedump.x64.o
 
 Example output:
 
-```
-EdgeDump - 2 credential(s) from 1 process(es)
-
-URL                          USERNAME        PASSWORD
----------------------------  --------------  --------------------
-the-internet.herokuapp.com   tomsmith        SuperSecretPassword!
-test.com                     test            password
-```
+<img width="803" height="237" alt="image" src="https://github.com/user-attachments/assets/7947a3b3-d938-4322-9707-dbe23ff56987" />
 
 ## Requirements
 
